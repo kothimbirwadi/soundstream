@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Details |
 |---|---|
@@ -111,7 +111,7 @@ Attach this CORS config to your S3 bucket under **Permissions → CORS**:
 
 ---
 
-## 🚀 Deploy on Vercel
+##  Deploy on Vercel
 
 1. **Push to GitHub:**
    ```bash
@@ -144,11 +144,11 @@ npm run build
 npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) 🎉
+Open [http://localhost:3000](http://localhost:3000) 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -163,7 +163,7 @@ Open [http://localhost:3000](http://localhost:3000) 🎉
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Home | Playlist | Upload to S3 | Cloud Status |
 |---|---|---|---|
