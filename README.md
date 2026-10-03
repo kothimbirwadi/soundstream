@@ -1,4 +1,4 @@
-# 🎵 SoundStream — Spotify Web Clone with AWS S3 & Vercel
+# 🎵 SoundStream — Spotify Web Clone with AWS S3
 
 > A full-featured **Spotify-inspired music streaming web app** built with **Next.js 14**, **Tailwind CSS**, and **AWS S3** for cloud audio/artwork storage. Deployed on **Vercel** with zero-config serverless API routes.
 
